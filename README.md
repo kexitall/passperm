@@ -1,0 +1,4 @@
+passperm
+========
+
+card pin permutations
