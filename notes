@@ -1,0 +1,17 @@
+We have
+
+a b c
+
+ned groups by two with permutations without repeats:
+
+ ab ac
+ ba bc
+ cb ca
+
+
+
+ 1) use set to depict result without repeats
+ 2) perform:
+  give first number,
+  make all combinations of it with next number
+
